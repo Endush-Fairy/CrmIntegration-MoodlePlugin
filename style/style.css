@@ -1,0 +1,9 @@
+.card-body {
+    flex: 1 1 auto;
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    color: var(--bs-card-color);
+    border: cadetblue 1rem solid;
+    box-shadow: inset 10px -9px 20px 0px rgb(63 185 189);
+    display: block;
+    border-radius: 8px;
+}
